@@ -8,10 +8,22 @@ Full-stack app that uses node, express, MongoDB, and Mongoose.
 Full-stack web application used to track workout routines and view workout history. The app uses JavaScript, node.js, an Express server, a MongoDB database, and Mongoose ODM. 
 
 ## Table of Contents
+* [Installation](#Installation)
+* [Usage](#Usage)
 * [Contributing](#Contributing)
 * [Credits](#Credits)
 * [License](#License)
 * [Questions](#Questions)
+
+## Installation
+* Clone the repo [here](https://github.com/MartinRenteria/Workout-tracker.git) and run  ```npm install```
+* Once you have repo cloned and dependencies installed, run  ```node server.js``` in the command line to start server on localhost:3000.
+
+## Usage
+1. View the deployed app [here](https://exercise-workout-tracker.herokuapp.com/).
+2. Main page shows stats for you last workout, or a prompt to add one if you do not have any workouts logged. 
+3. Click "Dashboard" to view workout stats.
+4. Click "New Workout" to begin logging a new workout, or click "Continue Workout" to log additional exercises to the current workout.
 
 ## Contributing
 I am the sole contributor on this project.
