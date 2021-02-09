@@ -1,5 +1,24 @@
 # Workout-tracker
 
+Full-stack app that uses node, express, MongoDB, and Mongoose.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+Full-stack web application used to track workout routines and view workout history. The app uses JavaScript, node.js, an Express server, a MongoDB database, and Mongoose ODM. 
+
+## Table of Contents
+* [Contributing](#Contributing)
+* [Credits](#Credits)
+* [License](#License)
+* [Questions](#Questions)
+
+## Contributing
+I am the sole contributor on this project.
+
+## Credits
+Thanks to UW Coding Bootcamp for providing front-end code and guidance.
+
 ## License
 MIT License
 
