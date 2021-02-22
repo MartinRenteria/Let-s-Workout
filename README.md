@@ -25,6 +25,12 @@ Full-stack web application used to track workout routines and view workout histo
 3. Click "Dashboard" to view workout stats.
 4. Click "New Workout" to begin logging a new workout, or click "Continue Workout" to log additional exercises to the current workout.
 
+## **Screenshot**
+
+Here is a photo of the Workout_Tracker application
+
+![Progressive-Budget](public/img/Workout-Tracker-Screenshot.png)
+
 ## Contributing
 I am the sole contributor on this project.
 
