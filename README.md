@@ -57,4 +57,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Questions
-Please direct any questions to renteriamp96@gmail.com.
+Please direct any questions to renteriamp96@gmail.com. if you have any questions and be sure to check out my other projects!
