@@ -11,7 +11,6 @@ Full-stack web application used to track workout routines and view workout histo
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
-* [Credits](#Credits)
 * [License](#License)
 * [Questions](#Questions)
 
@@ -33,9 +32,6 @@ Here is a photo of the Workout_Tracker application
 
 ## Contributing
 I am the sole contributor on this project.
-
-## Credits
-Thanks to UW Coding Bootcamp for providing front-end code and guidance.
 
 ## License
 MIT License
