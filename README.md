@@ -8,11 +8,20 @@ Full-stack app that uses node, express, MongoDB, and Mongoose.
 Full-stack web application used to track workout routines and view workout history. The app uses JavaScript, node.js, an Express server, a MongoDB database, and Mongoose ODM. 
 
 ## Table of Contents
+* [Technology](#Technology)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [License](#License)
 * [Questions](#Questions)
+
+## Technology
+- [MongoDB] - Database used for saving saved book information.
+- [Mongoose] - For creating MongoDB schemas in conjunction with MongoDB
+- [Express] -  Back-end server for rendering API calls. 
+- [node.js] - Evented I/O for the backend.
+- [Axios] - For grabbing API routes.
+- [Heroku] - For deployment.
 
 ## Installation
 * Clone the repo [here](https://github.com/MartinRenteria/Workout-tracker.git) and run  ```npm install```
